@@ -21,3 +21,5 @@ cd Cloud-Coverage-Detection
 python3 -m pip install -r requirements.txt
 ~~~
 Get weights from the drive link https://drive.google.com/drive/folders/1AHORQ4eyikaWXs-oBANKckeCJJS0M735?usp=sharing and save them in the ```weights``` folder which is present in the cloned file directory.
+
+Also get the ```train.csv``` and ```CCD test.csv``` file from the above drive link
