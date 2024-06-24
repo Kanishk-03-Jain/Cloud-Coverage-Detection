@@ -16,8 +16,8 @@ Documentation: https://docs.google.com/document/d/1NSPt0MgcluKspor2198lxPtN2d6iw
 ## Set-Up
 Paste these commands in the command prompt of your working directory to get started.
 ~~~
-git clone https://github.com/vishrutgrover/Cloud-Coverage-Detection-KVH.git
-cd Cloud-Coverage-Detection-KVH
+git clone https://github.com/Kanishk-03-Jain/Cloud-Coverage-Detection.git
+cd Cloud-Coverage-Detection
 python3 -m pip install -r requirements.txt
 ~~~
 Get weights from the drive link https://drive.google.com/drive/folders/1AHORQ4eyikaWXs-oBANKckeCJJS0M735?usp=sharing and save them in the ```weights``` folder which is present in the cloned file directory.
